@@ -95,7 +95,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'dep_kvenske_formal_pressemelding_kvensk_25.03.2011.doc'"/>
+<xsl:variable name="para_nob" select="'dep_kvenske_formal_pressemelding_25.03.2011.doc'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
