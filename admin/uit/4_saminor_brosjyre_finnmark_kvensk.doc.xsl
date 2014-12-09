@@ -37,15 +37,15 @@
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
-<xsl:variable name="translator_fn" select="''"/>
-<xsl:variable name="translator_ln" select="''"/>
-<xsl:variable name="translator_gender" select="'unknown'"/>
+<xsl:variable name="translator_fn" select="'Pirjo'"/>
+<xsl:variable name="translator_ln" select="'Paavalniemi'"/>
+<xsl:variable name="translator_gender" select="'f'"/>
 <xsl:variable name="translator_born" select="''"/>
-<xsl:variable name="translator_nat" select="''"/>
+<xsl:variable name="translator_nat" select="'FIN'"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="''"/>
-<xsl:variable name="sub_name" select="''"/>
-<xsl:variable name="sub_email" select="''"/>
+<xsl:variable name="sub_name" select="'Sindre Trosterud'"/>
+<xsl:variable name="sub_email" select="'sindre.reino.trosterud@gmail.com'"/>
 <xsl:variable name="wordcount" select="''"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
@@ -62,7 +62,7 @@
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-<xsl:variable name="multilingual" select="''"/> <!--this is default-->
+<xsl:variable name="multilingual" select="'1'"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
 <!-- selection frame. If no languages are selected, the document is -->
@@ -95,7 +95,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nob" select="'4_saminor_brosjyre_finnmark_norsk.pdf'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
