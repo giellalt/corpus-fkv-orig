@@ -69,8 +69,8 @@
 <!-- checked for all the languages below. -->
 <xsl:variable name="mlang_dan" select="''"/>
 <xsl:variable name="mlang_eng" select="''"/>
-<xsl:variable name="mlang_fin" select="''"/>
-<xsl:variable name="mlang_fkv" select="''"/>
+<xsl:variable name="mlang_fin" select="'1'"/>
+<xsl:variable name="mlang_fkv" select="'1'"/>
 <xsl:variable name="mlang_ger" select="''"/>
 <xsl:variable name="mlang_isl" select="''"/>
 <xsl:variable name="mlang_kal" select="''"/>
@@ -86,10 +86,10 @@
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
-<xsl:variable name="parallel_texts" select="''"/>
+<xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
-<xsl:variable name="para_fin" select="''"/>
+<xsl:variable name="para_fin" select="'kainun_institutti_a._borsskogin_kirja_07.01.2010_fin.doc'"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
