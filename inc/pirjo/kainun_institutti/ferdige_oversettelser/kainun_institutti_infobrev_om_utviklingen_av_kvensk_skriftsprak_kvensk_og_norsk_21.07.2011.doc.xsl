@@ -37,15 +37,15 @@
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
-<xsl:variable name="translator_fn" select="''"/>
-<xsl:variable name="translator_ln" select="''"/>
-<xsl:variable name="translator_gender" select="'unknown'"/>
+<xsl:variable name="translator_fn" select="'Pirjo'"/>
+<xsl:variable name="translator_ln" select="'Paavaniemi'"/>
+<xsl:variable name="translator_gender" select="'fem'"/>
 <xsl:variable name="translator_born" select="''"/>
-<xsl:variable name="translator_nat" select="''"/>
+<xsl:variable name="translator_nat" select="'FIN'"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="''"/>
-<xsl:variable name="sub_name" select="''"/>
-<xsl:variable name="sub_email" select="''"/>
+<xsl:variable name="sub_name" select="'Sindre Reino Trosterud'"/>
+<xsl:variable name="sub_email" select="'sindre.reino.trosterud@gmail.com'"/>
 <xsl:variable name="wordcount" select="''"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
