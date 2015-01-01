@@ -68,15 +68,15 @@
 <!-- selection frame. If no languages are selected, the document is -->
 <!-- checked for all the languages below. -->
 <xsl:variable name="mlang_dan" select="''"/>
-<xsl:variable name="mlang_eng" select="''"/>
-<xsl:variable name="mlang_fin" select="''"/>
-<xsl:variable name="mlang_fkv" select="''"/>
+<xsl:variable name="mlang_eng" select="'1'"/>
+<xsl:variable name="mlang_fin" select="'1'"/>
+<xsl:variable name="mlang_fkv" select="'1'"/>
 <xsl:variable name="mlang_ger" select="''"/>
 <xsl:variable name="mlang_isl" select="''"/>
 <xsl:variable name="mlang_kal" select="''"/>
 <xsl:variable name="mlang_kpv" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_nob" select="'1'"/>
 <xsl:variable name="mlang_rus" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_sme" select="''"/>
@@ -86,16 +86,16 @@
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
-<xsl:variable name="parallel_texts" select="''"/>
+<xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="''"/>
-<xsl:variable name="para_fin" select="''"/>
+<xsl:variable name="para_eng" select="'kieli_taulu_kvaani_eng.pdf'"/>
+<xsl:variable name="para_fin" select="'kieli_taulu_kvaani_fin.pdf'"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nob" select="'kieli_taulu_kvaani_nob.pdf'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
