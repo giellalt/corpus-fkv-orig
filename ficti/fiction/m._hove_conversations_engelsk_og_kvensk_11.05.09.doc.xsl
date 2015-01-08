@@ -37,15 +37,15 @@
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
-<xsl:variable name="translator_fn" select="''"/>
-<xsl:variable name="translator_ln" select="''"/>
-<xsl:variable name="translator_gender" select="'unknown'"/>
+<xsl:variable name="translator_fn" select="'Pirjo'"/>
+<xsl:variable name="translator_ln" select="'Paavalniemi'"/>
+<xsl:variable name="translator_gender" select="'f'"/>
 <xsl:variable name="translator_born" select="''"/>
-<xsl:variable name="translator_nat" select="''"/>
+<xsl:variable name="translator_nat" select="'FIN'"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="''"/>
-<xsl:variable name="sub_name" select="''"/>
-<xsl:variable name="sub_email" select="''"/>
+<xsl:variable name="sub_name" select="'Sindre Reino Trosterud'"/>
+<xsl:variable name="sub_email" select="'sindre.reino.trosterud@gmail.com'"/>
 <xsl:variable name="wordcount" select="''"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
@@ -68,15 +68,15 @@
 <!-- selection frame. If no languages are selected, the document is -->
 <!-- checked for all the languages below. -->
 <xsl:variable name="mlang_dan" select="''"/>
-<xsl:variable name="mlang_eng" select="''"/>
+<xsl:variable name="mlang_eng" select="'1'"/>
 <xsl:variable name="mlang_fin" select="''"/>
-<xsl:variable name="mlang_fkv" select="''"/>
+<xsl:variable name="mlang_fkv" select="'1'"/>
 <xsl:variable name="mlang_ger" select="''"/>
 <xsl:variable name="mlang_isl" select="''"/>
 <xsl:variable name="mlang_kal" select="''"/>
 <xsl:variable name="mlang_kpv" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_nob" select="'1'"/>
 <xsl:variable name="mlang_rus" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_sme" select="''"/>
@@ -86,9 +86,9 @@
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
-<xsl:variable name="parallel_texts" select="''"/>
+<xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="''"/>
+<xsl:variable name="para_eng" select="'_hove_conversations_engelsk_og_kvensk_11.05.09_eng.doc'"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
