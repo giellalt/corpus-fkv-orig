@@ -36,10 +36,10 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="'admin'"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="'Pirjo'"/>
 <xsl:variable name="translator_ln" select="'Paavaniemi'"/>
-<xsl:variable name="translator_gender" select="'fem'"/>
+<xsl:variable name="translator_gender" select="'f'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="'FIN'"/>
 <!-- select license type: free, standard or other -->
