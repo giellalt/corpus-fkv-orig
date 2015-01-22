@@ -90,12 +90,12 @@
 <xsl:variable name="para_dan" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
-<xsl:variable name="para_fkv" select="'om_kalenderen_2011_fkv.doc'"/>
+<xsl:variable name="para_fkv" select="'om_kalenderen_2011.doc'"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'om_kalenderen_2011_nob.doc'"/>
+<xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'om_kalenderen_2011_sme.doc'"/>
 <xsl:variable name="para_smj" select="''"/>

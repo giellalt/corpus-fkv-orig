@@ -90,12 +90,12 @@
 <xsl:variable name="para_dan" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
-<xsl:variable name="para_fkv" select="'pressemelding_mennesker_i_nord_2013_fkv.doc'"/>
+<xsl:variable name="para_fkv" select="'pressemelding_mennesker_i_nord_2013.doc'"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'pressemelding_mennesker_i_nord_2013_nob.doc'"/>
+<xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'pressemelding_mennesker_i_nord_2013_sme.doc'"/>
 <xsl:variable name="para_smj" select="''"/>
