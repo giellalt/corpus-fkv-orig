@@ -68,8 +68,8 @@
 <!-- selection frame. If no languages are selected, the document is -->
 <!-- checked for all the languages below. -->
 <xsl:variable name="mlang_dan" select="''"/>
-<xsl:variable name="mlang_eng" select="''"/>
-<xsl:variable name="mlang_fin" select="''"/>
+<xsl:variable name="mlang_eng" select="'1'"/>
+<xsl:variable name="mlang_fin" select="'1'"/>
 <xsl:variable name="mlang_fkv" select="'1'"/>
 <xsl:variable name="mlang_ger" select="''"/>
 <xsl:variable name="mlang_isl" select="''"/>
@@ -79,7 +79,7 @@
 <xsl:variable name="mlang_nob" select="'1'"/>
 <xsl:variable name="mlang_rus" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
-<xsl:variable name="mlang_sme" select="''"/>
+<xsl:variable name="mlang_sme" select="'1'"/>
 <xsl:variable name="mlang_smj" select="''"/>
 <xsl:variable name="mlang_swe" select="''"/>
 <xsl:variable name="mlang_oth" select="''"/>
