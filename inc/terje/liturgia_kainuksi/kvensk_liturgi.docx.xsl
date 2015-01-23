@@ -124,6 +124,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
+        <parallel_text xml:lang="nob" location="kvensk_liturgi_nob.docx"/>
     </xsl:variable>
 
 
