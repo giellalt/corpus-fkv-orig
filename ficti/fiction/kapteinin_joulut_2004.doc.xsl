@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/CorpusTools-0.9.0a2-py2.7.egg/corpustools/xslt/common.xsl"/>
@@ -41,15 +41,15 @@
     <xsl:variable name="genre" select="''"/>
     <xsl:variable name="collection" select="''"/>
     <xsl:variable name="translated_from" select="''"/>
-    <xsl:variable name="translator_fn" select="''"/>
-    <xsl:variable name="translator_ln" select="''"/>
-    <xsl:variable name="translator_gender" select="'unknown'"/>
+    <xsl:variable name="translator_fn" select="'Terje'"/>
+    <xsl:variable name="translator_ln" select="'Aaronsen'"/>
+    <xsl:variable name="translator_gender" select="'m'"/>
     <xsl:variable name="translator_born" select="''"/>
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
-    <xsl:variable name="sub_name" select="''"/>
-    <xsl:variable name="sub_email" select="''"/>
+    <xsl:variable name="sub_name" select="'Sindre Reino Trosterud'"/>
+    <xsl:variable name="sub_email" select="'sindre.reino.trosterud@gmail.com'"/>
     <xsl:variable name="wordcount" select="''"/>
     <!-- Set this variable to 1 if the source for this doc is OCR -->
     <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
@@ -61,12 +61,12 @@
     <xsl:variable name="note" select="''"/>
 
     <!-- The main language of the document -->
-    <xsl:variable name="mainlang" select="''"/>
+    <xsl:variable name="mainlang" select="'fkv'"/>
 
     <!-- In the case of a multilingual document, we may want to check for
          other languages. Set the variable monolingual to '1' to turn off
          language recognition (treating everything as mainlang) -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!-- If monolingual is not set, the document is multilingual.
          Uncomment the languages you want to check for (or add new lines
