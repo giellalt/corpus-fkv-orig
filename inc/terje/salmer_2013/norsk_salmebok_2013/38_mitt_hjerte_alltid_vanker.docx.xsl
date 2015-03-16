@@ -66,7 +66,7 @@
     <!-- In the case of a multilingual document, we may want to check for
          other languages. Set the variable monolingual to '1' to turn off
          language recognition (treating everything as mainlang) -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!-- If monolingual is not set, the document is multilingual.
          Uncomment the languages you want to check for (or add new lines
@@ -80,7 +80,6 @@
         <!-- <language xml:lang="eng"/> -->
         <!-- <language xml:lang="fin"/> -->
         <!-- <language xml:lang="fit"/> -->
-        <!-- <language xml:lang="fkv"/> -->
         <!-- <language xml:lang="ger"/> -->
         <!-- <language xml:lang="isl"/> -->
         <!-- <language xml:lang="kal"/> -->
@@ -94,6 +93,7 @@
         <!-- <language xml:lang="smn"/> -->
         <!-- <language xml:lang="sms"/> -->
         <!-- <language xml:lang="swe"/> -->
+        <language xml:lang="fkv"/>
     </xsl:variable>
 
     <!-- If the document has parallel texts, uncomment the right languages
