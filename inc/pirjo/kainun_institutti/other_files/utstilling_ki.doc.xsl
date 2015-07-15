@@ -38,8 +38,8 @@
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="translator_fn" select="'Pirjo'"/>
-<xsl:variable name="translator_ln" select="'Paavalniemi'"/>
-<xsl:variable name="translator_gender" select="'f'"/>
+<xsl:variable name="translator_ln" select="'Paavaniemi'"/>
+<xsl:variable name="translator_gender" select="'fem'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="'FIN'"/>
 <!-- select license type: free, standard or other -->
@@ -61,7 +61,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
+<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
@@ -76,7 +76,7 @@
 <xsl:variable name="mlang_kal" select="''"/>
 <xsl:variable name="mlang_kpv" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_nob" select="'1'"/>
 <xsl:variable name="mlang_rus" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_sme" select="''"/>
