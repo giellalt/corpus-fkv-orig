@@ -37,8 +37,8 @@
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
-<xsl:variable name="translator_fn" select="'Terje'"/>
-<xsl:variable name="translator_ln" select="'Aaronsen'"/>
+<xsl:variable name="translator_fn" select="'Pirjo'"/>
+<xsl:variable name="translator_ln" select="'Paavalniemi'"/>
 <xsl:variable name="translator_gender" select="'m'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="'NO'"/>
