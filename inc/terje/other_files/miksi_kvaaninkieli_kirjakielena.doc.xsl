@@ -41,9 +41,9 @@
     <xsl:variable name="genre" select="''"/>
     <xsl:variable name="collection" select="''"/>
     <xsl:variable name="translated_from" select="''"/>
-    <xsl:variable name="translator_fn" select="''"/>
-    <xsl:variable name="translator_ln" select="''"/>
-    <xsl:variable name="translator_gender" select="''"/>
+    <xsl:variable name="translator_fn" select="'Terje'"/>
+    <xsl:variable name="translator_ln" select="'Aaronsen'"/>
+    <xsl:variable name="translator_gender" select="'m'"/>
     <xsl:variable name="translator_born" select="''"/>
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
@@ -80,13 +80,13 @@
         <!-- <language xml:lang="eng"/> -->
         <!-- <language xml:lang="fin"/> -->
         <!-- <language xml:lang="fit"/> -->
-        <!-- <language xml:lang="fkv"/> -->
+        <language xml:lang="fkv"/>
         <!-- <language xml:lang="ger"/> -->
         <!-- <language xml:lang="isl"/> -->
         <!-- <language xml:lang="kal"/> -->
         <!-- <language xml:lang="kpv"/> -->
         <!-- <language xml:lang="nno"/> -->
-        <!-- <language xml:lang="nob"/> -->
+        <language xml:lang="nob"/>
         <!-- <language xml:lang="rus"/> -->
         <!-- <language xml:lang="sma"/> -->
         <!-- <language xml:lang="sme"/> -->
