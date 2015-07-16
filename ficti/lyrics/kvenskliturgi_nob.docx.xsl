@@ -61,7 +61,7 @@
     <xsl:variable name="note" select="''"/>
 
     <!-- The main language of the document -->
-    <xsl:variable name="mainlang" select="'fkv'"/>
+    <xsl:variable name="mainlang" select="'nob'"/>
 
     <!-- In the case of a multilingual document, we may want to check for
          other languages. Set the variable monolingual to '1' to turn off
@@ -80,13 +80,13 @@
         <!-- <language xml:lang="eng"/> -->
         <!-- <language xml:lang="fin"/> -->
         <!-- <language xml:lang="fit"/> -->
-        <!-- <language xml:lang="fkv"/> -->
+        <language xml:lang="fkv"/>
         <!-- <language xml:lang="ger"/> -->
         <!-- <language xml:lang="isl"/> -->
         <!-- <language xml:lang="kal"/> -->
         <!-- <language xml:lang="kpv"/> -->
         <!-- <language xml:lang="nno"/> -->
-        <!-- <language xml:lang="nob"/> -->
+        <language xml:lang="nob"/>
         <!-- <language xml:lang="rus"/> -->
         <!-- <language xml:lang="sma"/> -->
         <!-- <language xml:lang="sme"/> -->
@@ -123,8 +123,7 @@
         <!-- <parallel_text xml:lang="smj" location=""/> -->
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
-        <!-- <parallel_text xml:lang="swe" location=""/> -->
-        <parallel_text xml:lang="nob" location="kvenskliturgi2012v5_nob.rtf"/>
+        <parallel_text xml:lang="fkv" location="kvenskliturgi_fkv.docx"/>
     </xsl:variable>
 
 

@@ -80,13 +80,13 @@
         <!-- <language xml:lang="eng"/> -->
         <!-- <language xml:lang="fin"/> -->
         <!-- <language xml:lang="fit"/> -->
-        <!-- <language xml:lang="fkv"/> -->
+        <language xml:lang="fkv"/>
         <!-- <language xml:lang="ger"/> -->
         <!-- <language xml:lang="isl"/> -->
         <!-- <language xml:lang="kal"/> -->
         <!-- <language xml:lang="kpv"/> -->
         <!-- <language xml:lang="nno"/> -->
-        <!-- <language xml:lang="nob"/> -->
+        <language xml:lang="nob"/>
         <!-- <language xml:lang="rus"/> -->
         <!-- <language xml:lang="sma"/> -->
         <!-- <language xml:lang="sme"/> -->
@@ -124,7 +124,6 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-        <parallel_text xml:lang="fkv" location="kvenskliturgi2012v5.rtf"/>
     </xsl:variable>
 
 

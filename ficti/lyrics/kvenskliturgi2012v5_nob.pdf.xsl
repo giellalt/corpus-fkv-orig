@@ -80,13 +80,13 @@
         <!-- <language xml:lang="eng"/> -->
         <!-- <language xml:lang="fin"/> -->
         <!-- <language xml:lang="fit"/> -->
-        <!-- <language xml:lang="fkv"/> -->
+        <language xml:lang="fkv"/>
         <!-- <language xml:lang="ger"/> -->
         <!-- <language xml:lang="isl"/> -->
         <!-- <language xml:lang="kal"/> -->
         <!-- <language xml:lang="kpv"/> -->
         <!-- <language xml:lang="nno"/> -->
-        <!-- <language xml:lang="nob"/> -->
+        <language xml:lang="nob"/>
         <!-- <language xml:lang="rus"/> -->
         <!-- <language xml:lang="sma"/> -->
         <!-- <language xml:lang="sme"/> -->
