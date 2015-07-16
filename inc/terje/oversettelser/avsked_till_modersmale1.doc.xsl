@@ -37,15 +37,15 @@
     <xsl:variable name="genre" select="''"/>
     <xsl:variable name="collection" select="''"/>
     <xsl:variable name="translated_from" select="''"/>
-    <xsl:variable name="translator_fn" select="''"/>
-    <xsl:variable name="translator_ln" select="''"/>
-    <xsl:variable name="translator_gender" select="'unknown'"/>
-    <xsl:variable name="translator_born" select="''"/>
+    <xsl:variable name="translator_fn" select="'Terje'"/>
+    <xsl:variable name="translator_ln" select="'Aaronsen'"/>
+    <xsl:variable name="translator_gender" select="'m'"/>
+    <xsl:variable name="translator_born" select="'NO'"/>
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
-    <xsl:variable name="sub_name" select="''"/>
-    <xsl:variable name="sub_email" select="''"/>
+    <xsl:variable name="sub_name" select="'Sindre Reino Trosterud'"/>
+    <xsl:variable name="sub_email" select="'sindre.reino.trosterud@gmail.com'"/>
     <xsl:variable name="wordcount" select="''"/>
     <!-- Set this variable to 1 if the source for this doc is OCR -->
     <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
@@ -57,7 +57,7 @@
     <xsl:variable name="note" select="''"/>
 
     <!-- The main language of the document -->
-    <xsl:variable name="mainlang" select="''"/>
+    <xsl:variable name="mainlang" select="'fkv'"/>
 
     <!-- In the case of a multilingual document, we may want to check for
          other languages. Set the variable monolingual to '1' to turn off
@@ -76,7 +76,7 @@
         <!-- <language xml:lang="eng"/> -->
         <!-- <language xml:lang="fin"/> -->
         <!-- <language xml:lang="fit"/> -->
-        <!-- <language xml:lang="fkv"/> -->
+        <language xml:lang="fkv"/>
         <!-- <language xml:lang="ger"/> -->
         <!-- <language xml:lang="isl"/> -->
         <!-- <language xml:lang="kal"/> -->
@@ -89,7 +89,7 @@
         <!-- <language xml:lang="smj"/> -->
         <!-- <language xml:lang="smn"/> -->
         <!-- <language xml:lang="sms"/> -->
-        <!-- <language xml:lang="swe"/> -->
+        <language xml:lang="swe"/>
     </xsl:variable>
 
     <!-- If the document has parallel texts, uncomment the right languages
