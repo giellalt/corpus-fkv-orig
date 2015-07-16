@@ -85,7 +85,7 @@
         <!-- <language xml:lang="kal"/> -->
         <!-- <language xml:lang="kpv"/> -->
         <!-- <language xml:lang="nno"/> -->
-        <!-- <language xml:lang="nob"/> -->
+        <language xml:lang="nob"/>
         <!-- <language xml:lang="rus"/> -->
         <!-- <language xml:lang="sma"/> -->
         <!-- <language xml:lang="sme"/> -->
