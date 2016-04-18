@@ -123,7 +123,7 @@
         <!-- <parallel_text xml:lang="smj" location=""/> -->
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
-        <parallel_text xml:lang="nob" location="kvenskliturgi_nob.docx"/>
+        <!-- <parallel_text xml:lang="nob" location=""/> -->
     </xsl:variable>
 
 
