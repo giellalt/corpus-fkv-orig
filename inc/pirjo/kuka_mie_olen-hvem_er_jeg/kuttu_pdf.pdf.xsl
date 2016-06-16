@@ -38,8 +38,8 @@
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="translator_fn" select="'Pirjo'"/>
-<xsl:variable name="translator_ln" select="'Paavaniemi'"/>
-<xsl:variable name="translator_gender" select="'fem'"/>
+<xsl:variable name="translator_ln" select="'Paavalniemi'"/>
+<xsl:variable name="translator_gender" select="'f'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="'FIN'"/>
 <!-- select license type: free, standard or other -->
@@ -70,14 +70,14 @@
 <!-- checked for all the languages below. -->
 <xsl:variable name="mlang_dan" select="''"/>
 <xsl:variable name="mlang_eng" select="''"/>
-<xsl:variable name="mlang_fin" select="'1'"/>
+<xsl:variable name="mlang_fin" select="''"/>
 <xsl:variable name="mlang_fkv" select="''"/>
 <xsl:variable name="mlang_ger" select="''"/>
 <xsl:variable name="mlang_isl" select="''"/>
 <xsl:variable name="mlang_kal" select="''"/>
 <xsl:variable name="mlang_kpv" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_nob" select="'1'"/>
+<xsl:variable name="mlang_nob" select="''"/>
 <xsl:variable name="mlang_rus" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_sme" select="''"/>
