@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2012'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -86,13 +86,13 @@
         Three letter language code.
         https://no.wikipedia.org/wiki/Liste_over_ISO_639-1-koder
     -->
-    <xsl:variable name="translated_from" select="''"/>
+    <xsl:variable name="translated_from" select="'nob'"/>
     <!-- Translator variables have the same format as the author ones -->
-    <xsl:variable name="translator_fn" select="''"/>
-    <xsl:variable name="translator_ln" select="''"/>
-    <xsl:variable name="translator_gender" select="'unknown'"/>
+    <xsl:variable name="translator_fn" select="'Pirjo'"/>
+    <xsl:variable name="translator_ln" select="'Paavalniemi'"/>
+    <xsl:variable name="translator_gender" select="'f'"/>
     <xsl:variable name="translator_born" select="''"/>
-    <xsl:variable name="translator_nat" select="''"/>
+    <xsl:variable name="translator_nat" select="'FI'"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
     <!-- e.g. Sámediggi journal number -->
