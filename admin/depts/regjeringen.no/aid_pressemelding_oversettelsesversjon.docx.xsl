@@ -140,7 +140,6 @@
         then the document is checked for all supported languages.
     -->
     <xsl:variable name="mlangs">
-        <!-- <language xml:lang="dan"/> -->
     <language xml:lang="fkv"/><language xml:lang="nob"/></xsl:variable>
 
     <!--
