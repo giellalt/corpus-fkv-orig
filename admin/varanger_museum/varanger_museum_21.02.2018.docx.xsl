@@ -140,7 +140,8 @@
         then the document is checked for all supported languages.
     -->
     <xsl:variable name="mlangs">
-        <!-- <language xml:lang="dan"/> -->
+        <language xml:lang="fkv"/>
+        <language xml:lang="nob"/>
     </xsl:variable>
 
     <!--
@@ -168,7 +169,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location=""/>
+        <parallel_text xml:lang="nob" location="varanger_museum_21.02.2018.docx"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
