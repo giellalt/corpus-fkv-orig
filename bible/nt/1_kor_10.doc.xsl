@@ -91,8 +91,8 @@
     <xsl:variable name="translator_fn" select="'Terje'"/>
     <xsl:variable name="translator_ln" select="'Aaronsen'"/>
     <xsl:variable name="translator_gender" select="'m'"/>
-    <xsl:variable name="translator_born" select="''"/>
-    <xsl:variable name="translator_nat" select="''"/>
+    <xsl:variable name="translator_born" select="'1947'"/>
+    <xsl:variable name="translator_nat" select="'NO'"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="'free'"/>
     <!-- e.g. Sámediggi journal number -->
@@ -129,7 +129,7 @@
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
