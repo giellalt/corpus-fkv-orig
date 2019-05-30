@@ -86,7 +86,7 @@
         Three letter language code.
         https://no.wikipedia.org/wiki/Liste_over_ISO_639-1-koder
     -->
-    <xsl:variable name="translated_from" select="''nob"/>
+    <xsl:variable name="translated_from" select="'nob'"/>
     <!-- Translator variables have the same format as the author ones -->
     <xsl:variable name="translator_fn" select="'Pirjo'"/>
     <xsl:variable name="translator_ln" select="'Paavalniemi'"/>
