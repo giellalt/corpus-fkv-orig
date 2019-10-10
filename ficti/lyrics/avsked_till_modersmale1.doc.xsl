@@ -92,7 +92,7 @@
     <xsl:variable name="translator_ln" select="'Aaronsen'"/>
     <xsl:variable name="translator_gender" select="'m'"/>
     <xsl:variable name="translator_born" select="'NO'"/>
-    <xsl:variable name="translator_nat" select="''"/>
+    <xsl:variable name="translator_nat" select="'1947'"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="'free'"/>
     <!-- e.g. Sámediggi journal number -->
