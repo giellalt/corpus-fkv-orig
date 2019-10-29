@@ -168,7 +168,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location=""/>
+        <parallel_text xml:lang="nob" location="kommisjonens_medlemmer_oversatt_til_kvensk_av_kvensk_institutt_6.5.2019.docx"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
