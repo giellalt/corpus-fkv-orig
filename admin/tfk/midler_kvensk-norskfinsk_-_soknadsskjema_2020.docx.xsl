@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'Midler kvensk-norskfinsk - Rapporteringsskjema 2020.docx'"/>
+    <xsl:variable name="filename" select="'Midler kvensk-norskfinsk - Søknadsskjema 2020.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
