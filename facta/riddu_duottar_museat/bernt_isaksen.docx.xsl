@@ -141,8 +141,9 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    </xsl:variable>
-
+        <language xml:lang="fkv"/>
+        <language xml:lang="nob"/>
+     </xsl:variable>
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
         is given on the command line when a document is added to the corpus.
