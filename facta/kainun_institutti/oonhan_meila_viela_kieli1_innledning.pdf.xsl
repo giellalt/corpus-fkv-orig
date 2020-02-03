@@ -122,7 +122,7 @@
     <xsl:variable name="note" select="''"/>
 
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="mainlang" select="'fkv'"/>
+    <xsl:variable name="mainlang" select="nob'"/>
 
     <!--
         In the case of a multilingual document, we may want to check for
