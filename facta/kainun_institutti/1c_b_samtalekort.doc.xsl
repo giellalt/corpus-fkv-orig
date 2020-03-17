@@ -88,11 +88,11 @@
     -->
     <xsl:variable name="translated_from" select="''"/>
     <!-- Translator variables have the same format as the author ones -->
-    <xsl:variable name="translator_fn" select="''"/>
-    <xsl:variable name="translator_ln" select="''"/>
-    <xsl:variable name="translator_gender" select="'unknown'"/>
+    <xsl:variable name="translator_fn" select="'Merethe'"/>
+    <xsl:variable name="translator_ln" select="'Eidstø'"/>
+    <xsl:variable name="translator_gender" select="'f'"/>
     <xsl:variable name="translator_born" select="''"/>
-    <xsl:variable name="translator_nat" select="''"/>
+    <xsl:variable name="translator_nat" select="'NO'"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
     <!-- e.g. Sámediggi journal number -->
@@ -141,6 +141,8 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
+		<language xml:lang="fkv"/>
+		    <language xml:lang="nob"/>
     </xsl:variable>
 
     <!--
