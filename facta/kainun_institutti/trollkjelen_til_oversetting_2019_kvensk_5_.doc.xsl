@@ -91,7 +91,7 @@
     <xsl:variable name="translator_fn" select="'Anna-Kaisa'"/>
     <xsl:variable name="translator_ln" select="'Räisänen'"/>
     <xsl:variable name="translator_gender" select="'f'"/>
-    <xsl:variable name="translator_born" select="''"/>
+    <xsl:variable name="translator_born" select="'1980'"/>
     <xsl:variable name="translator_nat" select="'FI'"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
