@@ -98,8 +98,8 @@
     <!-- e.g. Sámediggi journal number -->
     <xsl:variable name="contract_id" select="''"/>
     <!-- The name and email of the submitter -->
-    <xsl:variable name="sub_name" select="''"/>
-    <xsl:variable name="sub_email" select="''"/>
+    <xsl:variable name="sub_name" select="'Aili'"/>
+    <xsl:variable name="sub_email" select="'aili.eriksen@kvenskinstitutt.no'"/>
     <!-- Keep empty, this is automatically filled in by CorpusTools -->
     <xsl:variable name="wordcount" select="''"/>
     <!-- This variable can have the following values:
