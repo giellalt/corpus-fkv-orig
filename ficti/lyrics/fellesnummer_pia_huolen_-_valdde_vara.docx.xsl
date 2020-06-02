@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2011'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -139,9 +139,9 @@
         If *no* languages are uncommented (and monolingual is not 1),
         then the document is checked for all supported languages.
     -->
-    <xsl:variable name="mlangs">
-        <!-- <language xml:lang="dan"/> -->
-    </xsl:variable>
+	<xsl:variable name="mlangs">
+	    <!-- <language xml:lang="dan"/> -->
+	<language xml:lang="sme"/><language xml:lang="fkv"/></xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
