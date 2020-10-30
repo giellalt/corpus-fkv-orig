@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2020'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -88,11 +88,11 @@
     -->
     <xsl:variable name="translated_from" select="''"/>
     <!-- Translator variables have the same format as the author ones -->
-    <xsl:variable name="translator_fn" select="''"/>
-    <xsl:variable name="translator_ln" select="''"/>
-    <xsl:variable name="translator_gender" select="'unknown'"/>
-    <xsl:variable name="translator_born" select="''"/>
-    <xsl:variable name="translator_nat" select="''"/>
+    <xsl:variable name="translator_fn" select="'Mari'"/>
+    <xsl:variable name="translator_ln" select="'Keränen'"/>
+    <xsl:variable name="translator_gender" select="'f'"/>
+    <xsl:variable name="translator_born" select="'1979'"/>
+    <xsl:variable name="translator_nat" select="'FI'"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
     <!-- e.g. Sámediggi journal number -->
@@ -130,6 +130,9 @@
         language recognition (treating everything as mainlang)
     -->
     <xsl:variable name="monolingual" select="''"/>
+	<language xml:lang="fkv"/>
+	    <language xml:lang="nob"/>
+	</xsl:variable>
 
     <!--
         If monolingual is not set, the document is multilingual.

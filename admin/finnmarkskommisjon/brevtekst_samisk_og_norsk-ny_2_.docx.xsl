@@ -88,10 +88,10 @@
     -->
     <xsl:variable name="translated_from" select="''"/>
     <!-- Translator variables have the same format as the author ones -->
-    <xsl:variable name="translator_fn" select="'Aili'"/>
-    <xsl:variable name="translator_ln" select="'Eriksen'"/>
+    <xsl:variable name="translator_fn" select="'Merethe'"/>
+    <xsl:variable name="translator_ln" select="'Eidstø'"/>
     <xsl:variable name="translator_gender" select="'f'"/>
-    <xsl:variable name="translator_born" select="'1990'"/>
+    <xsl:variable name="translator_born" select="'1984'"/>
     <xsl:variable name="translator_nat" select="'NO'"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
