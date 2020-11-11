@@ -142,6 +142,7 @@
     <xsl:variable name="mlangs">
 	    <language xml:lang="nob"/>
 	    <language xml:lang="fkv"/>
+	    <language xml:lang="sme"/>
     </xsl:variable>
 
     <!--
