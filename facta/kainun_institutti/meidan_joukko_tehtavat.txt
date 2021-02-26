@@ -1,0 +1,214 @@
+Kunka se mennee?
+Hyvvää päivää!
+Hyvvää aamuu!
+Hyvvää aamuu, tyttäret! Kunka se mennee?
+No mooraa! Hyvinkö sulla mennee?
+Hyvvää ilttaa!
+Näjettelemä!
+Hyvästi ja tervettulemaa minun tykö illala!
+Näjemä illala. Piđä hyvvää!
+
+Liisa halluu juođa kaffii ja syöđä kakon. Hän ottaa spesiaalikaffii ja sukulaatikakon.
+
+Leena halluu juođa pryyssii ja syöđä kakon.
+Mikko halluu juođa teetä ja syöđä vaffelin. Hän ottaa vaffelin pääle marmelaattii.
+Anni halluu juođa kaffii. Hän ei halluu syöđä mithään.
+Maija juopi teetä maiđon ja sokkerin kans.
+
+Kaffi maksaa 20 kruunuu.
+
+Pryysi maksaa 25 kruunuu.
+Sukulaatikakko maksaa 42 kruunuu.
+Tee maksaa 18 kruunuu.
+Vaffeli maksaa 32 kruunuu.
+Spesiaalikaffi maksaa 30 kruunuu.
+
+Leena istuu klasin vieressä.
+
+Nuori tytär seissoo tiskin takana.
+Mikko juopi kaffii isossa kafeassa.
+Matti  istuu universiteetin kentälä.
+Anna syöpi vaffelii pienessä kafeassa.
+Maija lukkee kirjaa biblioteekissa.
+Liisa seissoo tiskin eđessä.
+
+Tunnetko sie Mikon? Se studeeraa histooriaa.
+ 
+Tunnetko sie Leenan? Se studeeraa kainun kieltä ja kulttuurii.
+Tunnetko sie Liisan? Se studeeraa matematikkii.
+Tunnetko sie Matin? Se kans studeeraa matematikkii.
+Tunnetko sie Maijan? Se studeeraa engelskaa.
+Tunnetko sie Pekan? Se studeraa franskaa.
+Tunnetko sie Ollin? Se studeeraa tyskää.
+
+Kaffi ja vaffeli maksaa 40 kruunuu.
+Kilo sokkerii maksaa 18 kruunuu 60 äyrii
+Pakka kaffii maksaa 38 kruunuu.
+Litteri maittoo maksaa 16 kruunuu
+Daattamasiini maksaa 3280 kruunuu
+Vanhaa piili maksaa 8700 kruunuu
+Käsifuuni maksaa 2499 kruunuu
+Laukku maksaa 1250 kr.
+Kello maksaa 499 kruunuu.
+Alfin kirja maksaa 327 kruunuu.
+
+Koska sie saatat tulla Leenan tykö huomena?
+Matti saattaa tulla kello viisi.
+Anni saattaa tulla puoli kahđeksen.
+Maija saattaa tulla kvartin yli seittemen.
+Mikko saattaa tulla puoli kymmenen.
+
+Mitä kello oon?
+Kello oon kvartin vaila seittemen.
+Kello oon heti kymmenen.
+Kello oon kaksikymmentä minuttii yli yhđeksen.
+Kello oon kvartin yli kaksitoista.
+Kello oon yksitoista.
+Kello oon kvartin vaila nelje.
+Kello oon seittemen illala.
+
+Viikonpäivät.
+Maanantaina Matti mennee universiteetthiin.
+Tiistaina Matti lukkee Alfin kirjaa
+Keskiviikkona Matti studeeraa koko päivän.
+Tuorestaina Matti käypi Tromssan keskipaikassa.
+Perjantaina Matti  mennee điskhoon.
+Lauvantaina Matti mennee kafehaan.
+Sunnuntaina Matti halluu mennä kinhoon.
+
+A) Maijan Liisa assuu nyt Tromssassa. Hänen huonet oon Isolakađulla Tromssan keskipaikassa. Liisa kävelee universiteetthiin, jos oon kaunis ilma. Jos oon paha ilma, hän mennee pyssilä.
+B) Mikko assuu likelä universiteettii. Hän kävelee joka päivä universiteetthiin. Hän istuu ushein universiteetin pikku kafeassa ja juopi kaffii ja syöpi vaffelii. Mikko studeeraa histooriaa.
+C) Olli mennee joka päivä pyssilä universiteetthiin. Hän assuu kaukana universiteetista.  Hän herrää kello seittemen, syöpi ja sitte hän lähtee universiteetthiin. Hän häyttyy istuut puoli tiimaa pyssissä. Hän oon universiteetissa kello puoli yhđeksen.
+
+Tääpänä Jussi mennee tunturhiin. Hän pannee laukkhuun leippää ja kaffii. Sitte hän noussee ylös vaaran rinnettä. Hän kattelee maisemaa ympärillä.
+Jussi  näkkee syvän vankan, ja sen pohjala oon iso joki. Joki tullee alas vankkaa, ja se laskee vuonhoon.
+Vuonon rannassa oon yksi iso huonet. Huonheessa oon kuusi klassii ja kaksi ovvee.  Huonheen takana oon pieni outa. Huonheen eđessä oon siljo. Siljola seissoo kaksi piilii.
+Toisessa piilissä istuu yksi mies ja vaimo. Jussi näkkee ette vaimo  heiluttaa kättä ja ette mies  starttaa piilin. Piili ajjaa heti pois siljolta asfattitiele.
+Rannassa oon kolme venettä. Yhđessä venheessä istuu nuori poika. Hän kans starttaa venheen, ja ajjaa venheelä ylös jokkee.
+
+Halloo, tämä oon Liisa. Halluisitko sie lähteet minun kans kinhoon?
+Koska sie meinaat mennä?
+Mie ajattelin tääpänä illala. Maailmanteatterissa mennee yksi oikhein hyvä uusi ruottalainen filmi.
+Mihin aikhaan se mennee?
+Kello kuusi.
+Kello kuusi tänä iltana ei sovi mulle. Mulla oon silloin karatee. Muistatko sie ette mie käyn karateklubissa? Mutta tuorestaina kello kuusi soppii hyvin.
+Sovima sitte ette met menemä huomena. Kohtaama Maailmanteatterin eđessä kymmenen vaile kuusi.
+Soma. Näjettelemä sitte.
+
+Halloo Matti, oletko sie kotona tääpänä?
+Mie olen vielä tiiman verran kotona, mutta sitte mie häyđyn lähteet universiteethiin. Mulla alkkaa matematikin tiima kello yksitoista.
+Muistatko ette sie lupasit minula yhđen kirjan? Sen Nesbøn uuđen kirjan.
+Mie saatan ottaat sen myötä ko tulen universteethiin. Mistä sie rinkkaat?
+Mie olen pyssissä. Tulen heti universiteetin etheen. Mutta minula oon tiima kello kymmenen ja mie olen valmis vasta kello kaksitoista. Sitte mie häyđyn vielä käyđä minun opettaajan konttuurissa. Met puhuma minun semesterityöstä. Mutta oletko sie universiteetissa vielä kello yksi?
+Minun tiima loppuu kello yksi. Saatamako mennä sitte kafehaan?
+Hyvä, met näjettelemä pikku kafeassa kello yksi!
+
+Halloo Liisa, tämä oon Anni.
+Voi kunka soma. Mistä sie rinkkaat?
+Mie olen nyt kotona Päärlyvookissa. Mie työtelen kalafapriikissa. Mutta mie meinaan tulla Tromsshaan ensi viikola. Oletko sie kotona?
+Mie matkustan Alattihoon perjantaina ja tulen takaisin tiistaina. Minä päivänä sie meinaat tulla?
+Mie meinaan tulla tuorestaina. Mulla oon vapaapäivä perjantaina. Olis soma kohđata.
+Missä sie meinaat assuut? Jos sie halluut niin saatat tulla ja assuut minun tykönä.
+Minun nepu assuu Tromssassa, mutta hän assuu Kvaløyalla. Sinne oon kohta pitkä matka Tromssan keskipaikasta. Jos sulle passaa, niin saatan tulla sinun tykö.
+Se olis kyllä soma. Saama praatata kunnola. Mihin aikhaan sie tulet?
+Minun flyyi tullee Tromsshaan kello kaksitoista.
+Mie tulen sinnuu vasthaan lentämäkentäle. Sitte met saatama ottaat pyssin sieltä Tromssan keskipaikkhaan. Näjettelemä sitte!
+Näjettelemä!
+
+Hannu ja Maija kohđathaan Tromssan lentämäkentälä.
+Hyvvää päivää, Maija. Mistä sie tulet?
+Hyvvää päivää. Mie tulen Alattiosta. Mistä sie tulet?
+Mie tulen Uslusta. Mie lennän heti Vesisaarheen. Mie asun sielä nyt. Asutko sie nyt Tromssassa?
+En, miehän asun Alattiossa. Mie lähđen illala takaisin Alattihoon. Mie kävin tyhä sikhuusissa.
+Minun flyyi lähtee heti. Mie häyđyn mennä. Se oli soma kohđata!
+Ja minun pyssi lähtee kans aivan heti. Näjettelemä!
+Näjettelemä!
+
+Stiina ja Kaisa kohđathaan Lemmijovessa Coopissa.
+Oletko sie Pekan Kaisa? Muistatko sie minnuu? Met olima samassa koulussa Alattiossa.
+Muistan mie sinun. Missä sie nyt asut?
+Mie asun Tromssassa. Asutko sie täälä Lemmijovessa?
+En asu. Mie asun Pyssyjovessa. Muistatko ette mie kohtasin sen Jussan Heikin sielä Alattiossa. Met asuima ensin Alattiossa, mutta nyt met asuma Pyssyjovessa. Heikki oon Pyssyjovesta pois.
+Muistanhan mie Heikin. No oonko teilä kläppii?
+Meiđän kläpit oon jo isot. Meiđän tytär assuu Tromssassa ja studeeraa universiteetissa. Ja meiđän poika työtelee Uslussa.
+Mullaki oon kaksi kläppii, kaksi tytärtä. Toinen assuu täälä Lemmijovessa ja toinen oon Tromssassa ja studeeraa jatkokoulussa.
+Mitä sinun tytär tekkee täälä?
+Hän oon sairhaanhoittaaja. Hän työtelee tervheyssentterissä. Tuossa oonki hänen piili. Hyvästi, mie häyđyn nyt mennä!
+Oli soma kohđata. Mie häyđyn kans mennä, ko minun pyssi lähtee heti Pyssyjokheen. Mutta rinkkaa mulle ko tulet ensi kerran!
+
+Hanna ja Kreeta kaupathaan vaattheita Tromssassa. Het oon kaupassa ja pröövilomassa ja hunteerathaan, mitä het haluthaan ostaat.
+Hanna: Tämä oon sievä plyysi. Mie tykkään just tästä vaaleen keltaisesta färistä. Mutta passaako se mulle? Mie en ushein käytä keltaista färrii, ko se ei oikhein passaa mulle. Mie luulen ette tuo vihrinen plyysi oon kuitenki parempi. Se oon kyllä vähän tyyris, mutta mie ostan sen. Se ei ole sikkari koska mie taas saatan kaupata Tromssassa, ja Kirkkoniemestä mie en löyđä oikhein mithään.
+
+Mie en tarvitte mithään uutta vaatetta. Mutta ko nämät housut oon niin fiinit. Net oon oikhein sievät minun päälä. Ja musta oon hyvä färi. Mutta mie saatan vielä pröövätä nuoita pruunii houssui. Net oon kans fiinit. Kummat housut oon paremat? Musta färi passaa kyllä hyvin tämän punaisen plyysin kans, mikä mulla oon päälä, mutta nuot pruunit saatethaan olla paremat sen minun uuđen vihrisen anorakin kans. Kummat mie nyt otan? Pruunit housut maksethaan kuusisattaa kruunuu, mutta nämät mustat vain neljesattaa. Mie ostan nämät mustat housut, ko nuot pruunit oon niin tyyrhiit.
+
+Mie tarvitten vielä hamheen tahi housut. Tuo sininen hamet mikä henkkaa tuossa, oon melkhein sievä. Mikä koko se oon? Se oon XL-koko. Mie luulen ette se oon liian iso. Punainen hamet oon S-kokkoo, ja mie luulen ette se oon liian pieni. Eikö täälä ole yhtäkhään hametta mikä oon mulle passeli? Se häyttyy olla M-kokkoo tai L-kokkoo. Tuossa oon oikkee koko. Mutta mie en tykkää tästä oransista färistä. Mutta siinä vieressä oon hyvät siniset housut. Net ei ole liian isot eikä pienet. Ja sininen oon hyvä färi. Mie saatan ostaat nämät. Se oon parempi ostaat housut, siksi ko mie en käytä niin ushein hamheita.
+Liisa seissoo tiskin eđessä.
+
+Tässä oon minun ämmi Maija ja tässä oon hänen sisar Kaisa. Minun ämmilä oli mustat hykset, mutta Kaisa-tätilä oli vaaleet hykset. Tässä kuvassa het oon vielä kläpit. Het käythiin Tromssassa, ja sielä het käythiin fotograaffila muorin ja faarin kans. Kuvassa Maijan ja Kaisan muorila eli minun ämmilä oon kaunis hamet päälä ja hänelä oon kiharat hykset. Mie muistan, ette ämmilä oli oikhein paksut vaaleet hykset. Tyttäriitten faarila eli minun äijilä oon kuvassa mustat hykset, musta parta ja prillat. Mie muistan hänen, ko hän oli jo vanhaa ja hänen hykset olthiin jo kokonhansa harmaajat, mutta hänelä oli hyvin siniset silmät.
+
+Ketä Maija ja Kaisa oon?
+Missä Maija ja Kaisa käythiin fotograaffila?
+Muistele, minkä näköinen Kreetan ämmi oli?
+Kenelä oli prillat?
+Minkälaiset hykset Kreetan faarila oli ko hän oli nuori?
+
+Tämä oon kans vanhaa kuva. Tässä kuvassa minun isovanhiimet istuthaan soffala, ja kaikki heiđän lapset eli minun muori ja hänen sisaret ja veljet seisothaan heiđän ympäri. Heitä oli kahđeksan sisarusta. Äiji täytti 70-vuotta ko tämän kuvan otethiin. Minun ämmi oon tässä kuvassa kans jo vanhaa, mutta kuitenki vielä melkhein nuoren näköinen. Hän oli oikhein kaunis vaimo, jolla oli pruunit hykset ja suuret pruunit silmät. Hänelä oli suora nenä ja pienet korvat. Sanothaan, ette minun muori ja minun sisar oon minun ämmin näköiset. Mutta mie olen taas saman näköinen ko minun faari.
+
+Mieki olen enämen minun faarin ja äijin näköinen. Tässä kuvassa oon minun äiji nuorena.  Hän oli merimies, ja tämän kuvan oon otettu, ko hän kävi Amerikassa. Hänen laivan nimi oli ‘Svanen’ eli kainuksi ‘joukhainen’. Se oli suuri laiva, ja yli kolmekymmentä ihmistä työteli siinä. Svanen kulki Ruijasta Amerikkhaan ja se kävi New Yorkissa vuona 1967. Tämän kuvan otethiin New Yorkin haminassa. Sie näjet siinä kans hänen kaverin, jonka nimi oli Nils, jos mie muistan oikhein. Minun äiji oli oikhein kommee nuorena, ja hän oli tosi vahva. Näjetkö, kunka paksu kaula hänelä oon? Ja kunka paksut käsivarret ja jalat? Hän nosteli painoi laivala, ja siihen aikhaan se oli kans paljon raskasta hommaa mitä merimiehet tehthiin laivoissa. Mie olen oikhein ylppee minun äijistä. Hän oli hauska mies ja tiesi paljon kaikenlaista, koska hän oli reisanu niin paljon.
+
+Tässä kuvassa sie näjet minun faarin. Tässä kuvan alla lukkee vuona 1983. Silloin faari oli vielä aivan nuori poika, tyhä 17-vuotta vanhaa ja kävi jatkokouluu Kirkkoniemessä. Pykejästä Kirkkoniemheen oon yli 100 kilomeetterii, ja sillä minun faari häytyi mennä pyssilä joka maanantai koulhuun ja assuut koko viikon Kirkkoniemessä. Lauvantaina hän saattoi tulla taas kothiin. Vesisaaressa oli kans jatkokoulu, mutta koska faarin täti asui Kirkkoniemessä, niin minun faari saattoi assuut tätin tykönä, ja siksi hän meni Kirkkoniemheen. Tästä kuvasta näkkyy, ette ko faari oli nuori, niin hän oli aika laiha poika, ja hänelä oli vaaleet pitkät kiharat hykset. En usko, ette hän oli kovin vahva, ko hänelä oli noin laiha kroppi. Hän tykkäs musikista, ja pelas kitarii.
+
+Kreeta oon käskeny Leenan syömhään hänen tykö. Kreeta ei ole seppä laittamhaan ruokkaa ja sillä hän aikkoo serveerata tacoo. Tacostahan kaikki kuitenki tykäthään. Kreeta aukaissee jääkaapin ja kattoo mitä hänelä oon kotona. Jääkaapissa oon yksi iso akurkka ja yksi iso punainen paprika, mutta muutoin se oon melkhein tyyhä. Sillä hän häyttyy ostaat kaupasta
+puoli killoo tommaattii
+yhđen ison keltaisen paprikan
+kaksi löökkii
+kaksi poksii tacokrakkuu
+yksi poksi päälyspiimää.
+
+Mari muistelee millälaila vanhaanaikhaista lihavellii keitethiin.
+
+Laita kryynit ensin vetheen yöksi, sitte keitä niitä tiiman. Liota kans kuivanlihhaa veđessä. Leikkaa lamphaanpaistin palaisiksi, lissää lihat vellhiin ko kryynit oon kiehunheet tiiman. Leikkaa puteetit, koleraapikset, kylrötterit, sellerit ja löökit vellhiin. Lissää vettä jos tarvittee. Laita höystöksi suolaa, pippurii ja löyrpärlehtii.
+Kruksaa mitä Marin lihavellissä oon!
+
+Mikon muori täyttää 50 vuotta. Hän oon kuttunu koko suvun kylhään ja keittäny vierhaile lihavellii. Päälysruvaksi hän oon paistanu suuren plööttikakon ja keittäny kaffii. Nyt sukulaiset oon syönheet vellin ja het istuthaan tuvassa ja ođotethaan kaffii ja kakkoo.
+Mikon ämmi oon melkhein vanhaa ja hänelä oon huono sölkä. Sillä hän tykkää istuut korkkeela ja kovala toolila. Ämmi istuu toolila pöyđän vieressä.
+Mikon äiji tykkää istuut pehmeelä soffala oven vieressä. Äijin vieressä soffala istuu Mikon eno Pekka.
+Mikon muorin tuvassa oon toinenki soffa. Tämä soffa oon tuvassa klasin alla. Siinä istuthaan Matti, hänen täti ja nepu. Täđin nimi oon Liisa, ja hän istuu Matin oikkeela puolela. Vasemalla puolela Matista istuu Matin nepu Jussa.
+Mikon faari istuu nojatoolissa ja puhuskellee ämmin kans. Nojatooli oon kirjahyllyn vieressä likelä pöyttää. Matin sisar seissoo ovela ja hänelä oon kaffikattila käđessä. Muori tullee sisäle plöötikakon kans. Heti kaikki istuthaan pöythään ja juođhaan kaffii ja syöđhään plöötikakkoo.
+
+Kreetan kranni Merethe oon studeerannu Tromssan universiteetissa ja hän oon nyt valmis opettaaja. Hän pittää juhlat ja oon käskeny vierhaaksi perettä ja sukkuu ja joitaki krannii ja kaveriita. Hän serveeraa vierhaile rääkkii, valkkeeta leippää ja majoneessii. Pöyđälä oon kans sitruunanpalassii. Juomaksi oon viinii ja vettä. Päälysruvaksi oon kaffii ja sukulaattii.
+Merethen muori istuu nojatoolissa soffan vieressä. Muori oon oikhein iloinen ko Merethe oon nyt valmis opettaaja. Soffala istuthaan Merethen ämmi ja äiji. Merethen ämmi puhelee Kreetan kans, sillä ko Kreeta istuu hänen vieressä toolila. Äiji praattii Merethen setän kans. Setän nimi oon Jens, ja hän istuu äijin vasemalla puolela seinän vieressä nojatoolin takana. Loman toisela puolela klasin alla oon kolme toolii. Merethen asumapari Mattis istuu keskelä, ja hänen oikkeela puolela istuu Merethen nepu Siri. Vasemalla puolela istuu Merethen kaveri Anne. Merethe oon menny köökhiin, ko hän keittää vierhaile kaffii.
+
+Matti oon saanu faarilta vanhaan päiväkirjan. Sen oon kirjoittannu faarin isoveli Olli, joka oli nuori poika viimi sođan aikhaan. Olli ja hänen vanhiimet ja sisar ja veli asuthiin Alattion Jovensuussa ko tyskäläiset tulthiin Ruijhaan. Sođan lopussa alattiolaiset evakueerathiin Etelä-Ruijhaan, ja monet menthiin Trøndelaghiin. Matti lukkee päiväkirjaa äänheen faarile:
+15.8.1941 – Viiđestoista aukustikuuta vuona yhđeksäntoistasattaa neljekymmentä yksi
+Tänne Alattihoon tuli monta tyskäläistä sotamiestä viimi kesänä. Erittäinki täälä Jovensuussa assuu nyt monta Tyskän sotamiestä. Täälä Alattiossa sanothaan ette tyskäläissii oon kuusi kerttaa niin paljon ko alattiolaissii. En tieđä oonko se totta. Het oon kuitenki ottanheet Alattion Paavinkartanon ittele, ja Alattion pataljoonaa ei ennää ole. Missähän minun nepu Matti nyt oon? Minun täti uskoo, ette se oon Ruottissa, mutta ei täti ole sikkari. Matti oli myötä Alattion pataljoonassa ja se oli kans Narvikin likelä  silloin ko sielä oli sota. Mutta met emmä ole kuulheet hänestä mithään pitkhään aikhaan. Ko mie näjen minun tätin, niin se oon aina niin surulinen. Luulen ette se pölkkää mitä Matile oon tapattunnu.
+
+Tyskäläiset tehthiin Alattihoon lentämäkentän. Monet alattiolaiset jokka asuthiin justhiin siinä paikassa, häyđythiin sitte lähteet pois heiđän omasta huonheesta. Sillä minun setä ja hänen vaimo asuthaan nyt meilä. Het saađhaan heti kläpin, ja mie saan sitte uuđen nepun.  Setä meinaa ette hän tekkee uuđen huonheen Poikkijokheen. Se oon tässä likelä meitä. Minun faari ei nyt työtele sillä ko hänen työt oon loppunheet Kivivaarasta eli Steinbergistä. Sillä hän saattaa auttaat settää ko se alkkaa tekemhään uutta huonetta. Minun muori käskee ette met piđämä plokata puoloi ja mustikoita talveksi, koska ruokkaa ei ole niin paljon. Hilloi meilä jo oon paljon. Ja muori käskee faarinki myötä marjhaan. Kläpiilä oon hyvvää aikkaa plokata marjoi, ko koulu ei ole alkanu vielä. Se oon sillä ko Tyskän sotamiehet käytethään nyt meiđän kouluhuonetta. Met emmä ole vieläkhään saanheet preivii Matilta.
+
+Joulut oon nyt sivvu, ja met alama taas uuđen vuođen. Joulut oli erilaiset ko ennen, ko meilä ei ollu paljon sokkerii, jauhoi eikä munnii, ja sillä saatoima leippoot vain vähän ennen joului. Eikä muori saattanu juođa oikkeeta teetä, ko sitäkhään ei ollu, muuta ko semmoista, minkä oon tehty puolanlehđistä. Nämät ruvat ja lisäksi maito, liha ja fläski oon olheet kortila jo aikkaa. Tupakkaa oon kans vähän, ja faarila välilä oon hirmuisesti mieli poltela. Sillä muori ja faari olthiin vähän suruliset ja vähäsen huonossa mielessä jouluna, mutta kyllä net jo piian taas hymmyilthiin ja sanothiin, ette meilä oli niin soma jouluilta. Met emmä saanheet monta lahjaakhaan tänä jouluna, niin ko ennen aikhaan, vaikka muori ja faari olthiinki freistanheet löyttäät jotaki kuitenki pienile kläpiile. Mie olin tehny lahjat minun veljele ja sisarelle. Net olthiinki hirmuinen iloiset ko saathiin minulta pienen puisen pyssyn ja äpön sängyn. Mie sain muorilta harmajan jakan, minkä se oli tehny äijin vanhoista housuista. Minusta jakka oli oikhein fiini, vaikka sen oliki tehty vanhaasta vaattheesta.
+
+Met olema olheet nyt Tromssassa muutamppii päivii. Yöt met nukuma Tromssan tuomiokirkossa. Täälä oon paljon ihmissii Alattiosta ja koko Finmarkusta, ja mie olen kohđanu monta kaverii ja muori ja faari kans oon nähnheet ihmissii ketä het ei ole nähnheet monheen vuotheen. Velliraiđot täälä oon hirmuinen pitkät, mutta kuitenki met olema saanheet ruokkaa joka päivä.
+Eilen met näimä monta flyyii, jokka lennethiin Tromssaa kohti.  Net olthiin engelsmannit, jokka sielä lennethiin ja puđotethiin pommii tyskäläisten laivan Tirpitzin pääle. Met kuulima kamalan äänen ja näjimä paljon savvuu, ja Tirpitz kaatui. Hyvä, ette se laiva nyt oon pois pelistä, mutta kuitenki oli hirmuinen nähđä tämän. Monta tyskäläistä sotamiestä kuoli, ja vain muutamppii saathiin ulos laivasta, ko laivan pohjhaan aukaisthiin reijän. Pienet kläpit pöläthiin hirmuisesti ja alethiin parkkuut. Met olema kyllä ennenki kuulheet pommiin äänii. Se oli silloin ko Tirpitz oli Alattiossa Kaavuonossa, ja engelsmannit freistathiin amppuut sen. Ja putos pommii joskus Alattion Jovensuussaki, mutta näin kamalaa mie en ole ennen nähny.
+Met emmä tieđä, mihin met häyđymä lähteet täältä Tromssasta. Oonko se piian heti eđessä pakkomuutto etelhään, mutta sielä met emmä tunne kethään. Olis kyllä hyvä, jos tämä sota jo loppuis, ennen ko koko maailma mennee kokonhansa palaisiksi.
+
+Met saatama matkustaat heti takaisin kothiin, ja sillä met kaikki olema hirmuinen iloiset. Olema olheet täälä Tröndelagissa Verdalissa viimi vuođesta asti. Tänne oli pitkä matka Tromssasta, ja met häyđyimä matkustaat tänne laivala, pyssilä ja tookila. Täälä ihmiset oon olheet hirmuinen ystävälliset, ja met saima aivan oman huonheen. Kouluki alkoi taas, ja pikkuveli oon oppinu lukemhaan. Mieki olen käyny täälä kouluu ja olen lukenu paljon kirjoi.
+Hyvä uutinen oon se, ette minun nepu oon kirjoittannu tätile, ja se oon ollu Englanissa koko sođan aijan. Se pakeni ensistä Ruotthiin, ja sieltä se sitte jatkoi matkaa Englanthiin. Uskon, ette met näjettelemä hänen kans heti.
+Met meinaama lähteet takaisin Finmarkkhuun paikala ko vain saatama. Sielä ei ole yhtäkhään huonetta ennää jäljelä, ko kaikki oon poltettu alas. Mutta kuitenki met halluuma kothiin. Se oon niin hyvä, ette tämä sota nyt viimin oon loppu.
+
+Preivi Matti-nepulta Englanista
+Ko Matti käänteli päiväkirjan laittoi, hän näki ette kirjan välissä oli yksi preivi. Se oli päältä vähäsen pruuni, ja sen päälä oli postimerkki, mikä ei ollu ruijalainen. Preivin oli aukaistu, ja Matti kysyi faarilta, sopiko sitä lukkeet. Faari muisteli, ette se oli preivi, jonka Matti-nepu oli kirjoittannu sođan jälkhiin kothiin omale muorile eli faarin tätile. Tämän nimi seisoiki preivin päälä.
+Dumfries  14.5. 1945 –  Dumfries  neljestoista maikuuta vuona yhđeksäntoistasattaa neljekymmentä viisi
+Hyvä muori!
+Tet että ole saanheet minulta mithään tiettoo pitkhään aikhaan. En ole saattanu kirjoittaat, ko posti Englanista ei ole kulkenu sođan aikana. Viimen ko kuulitta minusta, oli silloin ko mie vielä olin Narvikin tunturilla. Se oli kova olla sielä, vaikka meilä ennenki oon ollu kova elämä ko olema työtelheet Kivivaarassa. Mutta Narvikin tunturilla oli kylmä ja nälkä, ja met pölkäsimmä ette tyskäläinen heti voittaa meiđät. Ja huonosti siinä kävi, ja met häyđyimä lähteet sieltä pois. Mie en kuitenkhaan saattanu tulla kothiin, mutta mie ja minun kaveri sovima, ette met freistaama päästä Ruotthiin ja sieltä sitte Englanthiin. Met kuljima tunturin yli Ruotthiin ja sitte matkustimma Tukholmhaan tookila. Sielä met kohtasimma muitaki jokka kans haluthiin päästä Englanthiin ko het kuulthiin, ette kuningas ja hallitus olthiin kans pajettu sinne. Met liityimä sitte ruijalaisheen sotaväkheen Skotlanissa, ja mie aloin sielä lentäjäksi. Mie häyđyin ushein lenttäät Tyskän pääle. Sillä mie olen niin onnelinen ette sota nyt oon loppu ja mie vielä oon elossa. Mutta muistelen siitä sitte lissää ko näjettelemä.
+Minula oon teile oikhein iso uutinen. Mie olen nyt nainu.  Heti ko mie tulin tänne Skotlanthiin niin mie tutustuin yhtheen somhaan tyttärheen. Hän oon sairhaanhoittaaja, ja met kohtasimma tanssiissa. Hän oonki oikhein seppä tanssaamhaan! Ja muutoinki hän oon oikhein kaunis, punahyksinen ja pruunisilmäinen korree vaimo. Ja niin siivo. Sillä mie hänestä niin tykkään. Tämä sota oon ollu surkkee, mutta siitä kuitenki seuras yksi hyvä assii, se ko mie löysin Jennyn. Ko met tulema kothiin, niin tet saatta nähđä hänen. Met olema molemat niin iloiset ette saatama heti tulla Ruijhaan ja näjemä teiđät taas!
+Tervheissii kaikile
+
+Ko Matti oli lukenu preivin, faari muisteli hänele vielä lissää Matti-nepusta. Matti ei ollu koskhaan nähny tätä Matti-neppuu, jolla oli sama nimi ko hänelä. Matti ja Jenny tulthiin Alattihoon sođan jälkhiin, mutta het ei asunheet sielä kauvoin, sillä ko het heti taas matkustethiin takaisin Skotlanthiin. Se oli kova assuut Finmarkussa heti sođan jälkhiin, ko kaikki huonheet oli poltettu. Ja Jenny oppi vain vähän ruijaa, ja kainun kieltä hän ei oppinu yhthään, sillä monet ihmiset sođan jälkhiin alethiin puhumhaan vain ruijaa, netki jokka asuthiin Alattion Jovensuussa. Mutta faari muisteli ette Jenny oli kaunis ja ystävällinen, ja hymmyili aina ko faari kohđatteli hänen kans.
+
+Kenele Matti-nepu kirjoitti preivin?
+Miksi Matti-nepu kirjoitti vasta sođan jälkhiin?
+Missä Matti-nepu oli sođan aikana?
+Mitä hän teki sođan aikana?
+Muistele, kuka ja minkälainen Jenny oli?
+Miksi Matti-nepu ja Jenny matkustethiin takaisin Skotlanthiin?
+Studeeraa sinun kotipaikan histooriaa ja muistele, mitä sielä tapattui viimi sođan aikana!
