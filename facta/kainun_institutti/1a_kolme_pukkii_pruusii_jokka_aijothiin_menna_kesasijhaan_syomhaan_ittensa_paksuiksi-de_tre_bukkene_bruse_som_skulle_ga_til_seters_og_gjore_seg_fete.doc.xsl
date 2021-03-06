@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'1a Kolme pukkii Pruusii jokka aijothiin mennä kesäsijhaan syömhään ittensä paksuiksi-De tre bukkene Bruse som skulle gå til seters og gjøre seg fete.doc'"/>
+    <xsl:variable name="filename" select="'1a Kolme pukkii Pruusii jokka aijothiin mennä kesäsijhaan syömhään ittensä paksuiksi-De tre bukkene Bruse som skulle gå til seters og gjøre seg fete.doc'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
