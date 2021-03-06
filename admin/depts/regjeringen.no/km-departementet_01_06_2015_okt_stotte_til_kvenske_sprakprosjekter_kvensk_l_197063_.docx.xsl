@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'../Downloads/Departement/KM-departementet 01 06 2015 Økt støtte til kvenske språkprosjekter, kvensk (L)(197063).docx'"/>
+    <xsl:variable name="filename" select="'../Downloads/Departement/KM-departementet 01 06 2015 Økt støtte til kvenske språkprosjekter, kvensk (L)(197063).docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
