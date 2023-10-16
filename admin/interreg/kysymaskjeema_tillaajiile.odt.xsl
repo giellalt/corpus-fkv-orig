@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'Kysymäskjeema_tillaajiile.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Kysymäskjeema tillaajiile kekkä tillaa käänöksii kväänhiin tahi kväänistä'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

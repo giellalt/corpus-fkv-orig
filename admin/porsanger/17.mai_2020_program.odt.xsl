@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'17.mai 2020 program.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'17. maikuuta-markkeeraus Lemmijovessa'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'utstilling_Vadsø museum.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Utstilling Vadsø museum'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

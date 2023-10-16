@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/FFK/FFK 6 Kvensk bibliotektjeneste, Merethe og Karin 19.06.2018.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Metoodi kuinka identifiseerata kvääniin/norjansuomalaisten rakenuksii'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

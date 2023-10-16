@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'./Varanger Museum, invitasjon Kven Connection 27.09.2017.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Tervettulemaa kynstinäyttelhyyn'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

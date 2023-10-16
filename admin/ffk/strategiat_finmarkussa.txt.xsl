@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'strategiat_finmarkussa.txt'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Strategiat työle kvääniin/ norjansuomalaisten olloin kansa Finmarkussa'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

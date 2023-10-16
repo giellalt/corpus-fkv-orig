@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'./FFK 1 Kvensk bibliotektjeneste 1, kvensk 20.06.2017.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'FFK - Kvensk bibliotektjeneste'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
