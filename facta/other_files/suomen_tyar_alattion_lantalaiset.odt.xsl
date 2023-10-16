@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'suomen_tyar_alattion_lantalaiset.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Suomen tyär, Alattion lantalaiset ja heän paikanimet'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

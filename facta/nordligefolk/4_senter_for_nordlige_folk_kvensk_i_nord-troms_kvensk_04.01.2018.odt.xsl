@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/Senter for nordlige folk/4 Senter for nordlige folk, Kvensk i Nord-Troms, kvensk 04.01.2018.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Kväänit Pohjas-Tromssassa'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

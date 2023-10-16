@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'Halti nasjonalparksenter Om VPR på søyle, kvensk 21.06.2012.doc'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Halti nasjonalparksenter AS, Om VPR på søyle'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'./Immaterielle kulturarv/Tekst 1 Immaterielle kulturarv, innhold og tekster ved innledning av avsnitt  17.04.2018.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Sisälys Immateriell kulturarv'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

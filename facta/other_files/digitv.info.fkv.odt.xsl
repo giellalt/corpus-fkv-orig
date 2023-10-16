@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'digitv.info.fkv.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Syksylä 2007 muutethaan TV-lähätykset Norjassa digitaalisiksi'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

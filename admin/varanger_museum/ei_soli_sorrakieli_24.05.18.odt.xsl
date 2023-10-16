@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'./Immaterielle kulturarv/Ei soli sorrakieli 24.05.18.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Ei soli sorrakieli'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
