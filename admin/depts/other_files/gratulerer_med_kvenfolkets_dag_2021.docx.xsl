@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'Gratulerer med kvenfolkets dag_2021.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Onnee kvääninkansan päiväle!'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

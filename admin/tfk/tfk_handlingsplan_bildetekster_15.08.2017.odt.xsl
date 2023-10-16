@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'./TFK Handlingsplan, bildetekster 15.08.2017.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Bildetekster / Handlingsplan for kvensk språk og kultur i Troms i 2017-2020'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

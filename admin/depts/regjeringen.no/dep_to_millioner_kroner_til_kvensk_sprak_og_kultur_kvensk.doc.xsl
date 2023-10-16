@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/Departement/Dep, To millioner kroner til kvensk språk og kultur, kvensk.doc'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Kaksi miljoonaa kruunuu kväänin kielele ja kulttuurille'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

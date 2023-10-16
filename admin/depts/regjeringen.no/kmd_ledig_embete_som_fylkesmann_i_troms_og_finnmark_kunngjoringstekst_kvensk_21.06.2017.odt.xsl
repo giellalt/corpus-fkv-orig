@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/Departement/KMD Ledig embete som fylkesmann i Troms og Finnmark, kunngjøringstekst, kvensk 21.06.2017.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Vapaa maaherran virka Tromssassa ja Finmarkussa (määrätyiksi vuosiksi)'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

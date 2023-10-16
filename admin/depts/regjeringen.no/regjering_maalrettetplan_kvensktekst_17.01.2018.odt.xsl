@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/Departement/Regjering, maalrettetplan_kvensktekst 17.01.2018.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Suuntaplaana 2017-2021 – jatkosatsaus kväänin kielheen'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

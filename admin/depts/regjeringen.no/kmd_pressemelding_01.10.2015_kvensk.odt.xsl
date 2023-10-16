@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/Departement/KMD, Pressemelding 01.10.2015, kvensk.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Saamenkielinen grammatikkiprošekti ja kväänin kieli ja kulttuuri saađhaan kuurttoo'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

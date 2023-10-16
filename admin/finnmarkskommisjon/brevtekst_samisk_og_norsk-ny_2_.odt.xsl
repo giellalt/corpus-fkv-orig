@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'Brevtekst samisk og norsk-ny (2).docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Ala 9 Porsanki - Alku ja esi-ilmotus'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

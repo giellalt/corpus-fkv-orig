@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'Brevtekst til oversetting, folkemøte i Porsanger.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Ala 9 – Porsanki – Aukinainen info-/kansamöötti 3. novemperkuuta 2021 kello 18'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'PM_Samiske og kvensk navn på Norge er på plass_0421.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Norja saamen kielilä ja kväänin kielelä'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
