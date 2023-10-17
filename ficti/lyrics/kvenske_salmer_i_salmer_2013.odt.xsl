@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="''"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Kvenske salmer i Salmer 2013'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

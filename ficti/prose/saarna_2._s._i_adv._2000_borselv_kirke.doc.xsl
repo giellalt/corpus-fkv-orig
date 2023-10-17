@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="''"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'2. atventtisunnuntaina vuonna 2000 Pyssyjoven kirkossa'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

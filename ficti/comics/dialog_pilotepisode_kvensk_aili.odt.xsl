@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'Dialog Pilotepisode Kvensk, Aili.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Dialog Pilotepisode Kvensk'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
