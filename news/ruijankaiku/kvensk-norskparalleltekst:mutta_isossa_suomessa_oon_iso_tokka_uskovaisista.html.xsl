@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://www.ruijan-kaiku.no/kvensk-norsk-parallelltekst-mutta-isossa-suomessa-oon-iso-tokka-uskovaisista/'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Mutta isossa suomessa oon iso tokka uskovaisista'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

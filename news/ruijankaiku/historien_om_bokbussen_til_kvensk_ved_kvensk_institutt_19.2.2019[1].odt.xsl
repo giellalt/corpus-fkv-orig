@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/Ruijan Kaiku/Historien_om_bokbussen_til kvensk ved Kvensk institutt, 19.2.2019[1].docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Muistelus kirjabyssin ympäri – suljettu kapitteli?'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

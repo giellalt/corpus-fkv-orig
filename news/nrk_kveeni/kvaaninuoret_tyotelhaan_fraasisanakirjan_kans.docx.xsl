@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'Kvääninuoret_työtelhään_fraasisanakirjan_kans.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Kvääninuoret työtelhään fraasisanakirjan kans'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/NRK/Lær kvensk_i hoppbakken_oversatt til kvensk av Kvensk institutt_19.2.2019.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Opi kvääniä: Hyppyluokassa'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

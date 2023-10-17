@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/Ruijan Kaiku/Ruijan Kaiku, Uforsonlig ansettelse 22.1.2019.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Virkhaanpano mitä ei saata hyväksyyt'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

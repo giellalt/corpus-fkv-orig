@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/NRK/NRK Kvensk Benjaminsen 18.01.2018.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'NRK Kvensk: Einar Benjaminsen'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

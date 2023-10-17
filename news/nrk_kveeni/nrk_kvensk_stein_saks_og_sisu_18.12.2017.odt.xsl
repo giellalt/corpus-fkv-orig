@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/NRK/NRK Kvensk Stein, saks og sisu 18.12.2017.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Kivi, sakset ja sisu'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

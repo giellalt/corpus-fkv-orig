@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://www.ruijan-kaiku.no/bitter-navnekamp-katkera-nimitaistelu/'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Katkera nimitaistelu'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

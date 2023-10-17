@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://www.ruijan-kaiku.no/ruijan-kaiku-25-ar-ruijan-kaiku-25-vuotta/'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Ruijan Kaiku 25 vuotta'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
