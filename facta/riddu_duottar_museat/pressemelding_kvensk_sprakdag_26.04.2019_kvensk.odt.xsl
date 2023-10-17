@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/Pirjo/RDM/Pressemelding Kvensk språkdag 26.04.2019 kvensk.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Kväänin kielipäivää feirathaan Porsangin museumissa Lemmijovessa perjantaina 26. aprillikuuta'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

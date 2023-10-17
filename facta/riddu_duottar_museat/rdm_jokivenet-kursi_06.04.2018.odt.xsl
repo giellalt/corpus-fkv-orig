@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/Pirjo/RDM/RDM Jokivenet-kursi 06.04.2018.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Jokivenet-kursi – Porsangin malliset jokivenheet'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

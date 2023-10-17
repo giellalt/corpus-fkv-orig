@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/Pirjo/Kvensk institutt/Oonhan meilä vielä kieli 2 Det kvenske språket.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Det kvenske språket'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

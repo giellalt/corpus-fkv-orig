@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'meidan_joukko_tehtavat.txt'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Meiđän joukko tehtävät'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

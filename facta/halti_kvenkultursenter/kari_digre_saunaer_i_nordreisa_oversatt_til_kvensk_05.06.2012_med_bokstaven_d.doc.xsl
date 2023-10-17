@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'Kari Digre_Saunaer i Nordreisa_Oversatt til kvensk 05.06.2012 med bokstaven đ.doc'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Lyhykäinen yhtheenveto saunoista käänettynnä kvääniksi eli kainuksi'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

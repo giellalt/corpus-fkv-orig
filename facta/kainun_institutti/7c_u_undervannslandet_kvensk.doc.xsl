@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'7c_U_Undervannslandet_kvensk.doc'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Undervannslandet'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

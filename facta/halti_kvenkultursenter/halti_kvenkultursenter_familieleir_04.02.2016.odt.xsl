@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'Halti kvenkultursenter, Familieleir 04.02.2016.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Peretleiri 1.-3. aprillikuuta 2016'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

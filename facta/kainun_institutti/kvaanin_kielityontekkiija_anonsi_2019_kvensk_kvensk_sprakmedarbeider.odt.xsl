@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'../Downloads/Pirjo/Kvensk institutt/Kväänin kielityöntekkiijä_anonsi_2019 kvensk, Kvensk språkmedarbeider.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'KI Anonsi / Kväänin kielityöntekkiijä'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

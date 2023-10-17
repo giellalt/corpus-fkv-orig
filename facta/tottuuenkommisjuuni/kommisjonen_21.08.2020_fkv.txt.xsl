@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'kommisjonen_21.08.2020_fkv.txt'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Tottuuen- ja sovinonkommisjuuni Kainun institutissa 21.08.2020 Institutin työtelijöitten ajatuksii ja hunteerinkkii'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

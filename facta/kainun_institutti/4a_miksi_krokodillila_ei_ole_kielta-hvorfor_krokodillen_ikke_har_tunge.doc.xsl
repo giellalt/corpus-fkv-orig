@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'4a Miksi krokodillila ei ole kieltä-Hvorfor krokodillen ikke har tunge.doc'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Miksi krokodillila ei ole kieltä'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

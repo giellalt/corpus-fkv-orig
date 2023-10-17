@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'Kurt Roger og Robert Severin Pedersen.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Kurt Roger ja Robert Severin Pedersen'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

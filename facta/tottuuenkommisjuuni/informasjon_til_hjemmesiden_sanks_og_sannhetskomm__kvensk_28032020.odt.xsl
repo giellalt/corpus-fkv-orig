@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'Informasjon til hjemmesiden SANKS og Sannhetskomm_ kvensk_28032020.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Kriisi- ja apupraatit'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

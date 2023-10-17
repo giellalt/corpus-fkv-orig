@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'del_din_historie_revidert_oversatt_til_kvensk_av_kvensk_institutt_03.05.2019.doc'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Jaa sinun histuuriin'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'intervjuguide_kvensk.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Tottuuen- ja sovinonkommisjuunin intervjyyiopastus'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
