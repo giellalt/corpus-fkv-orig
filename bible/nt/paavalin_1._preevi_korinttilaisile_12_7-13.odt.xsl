@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="''"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Paavalin 1. preevi korinttilaisile, 12 (kahðenessatoista) luvussa'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

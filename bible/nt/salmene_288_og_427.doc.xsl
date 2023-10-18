@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'Salmene 288 og 427.doc'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Salmit 288 ja 427'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

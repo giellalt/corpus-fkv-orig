@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="''"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Tekster til 50 års jubileet for Børselv kirke'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

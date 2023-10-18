@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'KEF1010 Kvensk som andrespråk vg3, eksempeloppgave.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Eksempeloppgave høsten 2022'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
