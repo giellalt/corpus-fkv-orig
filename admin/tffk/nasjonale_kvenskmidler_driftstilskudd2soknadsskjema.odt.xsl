@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'Nasjonale_kvenskmidler_Driftstilskudd2Søknadsskjema.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Nasjonale kvenskmidler Driftstilskudd søknadsskjema'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

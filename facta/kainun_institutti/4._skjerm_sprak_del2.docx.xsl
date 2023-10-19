@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'4. Skjerm_språk_del2.docx'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Skjerm språk del 2'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -12,8 +12,8 @@
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
     <xsl:variable name="filename" select="''"/>
-    <xsl:variable name="text_encoding" select="'Kuttu Kulttuuripalkinon 2010 jakotillaisuutheen'"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="text_encoding" select="''"/>
+    <xsl:variable name="title" select="'Kuttu Kulttuuripalkinon 2010 jakotillaisuutheen'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

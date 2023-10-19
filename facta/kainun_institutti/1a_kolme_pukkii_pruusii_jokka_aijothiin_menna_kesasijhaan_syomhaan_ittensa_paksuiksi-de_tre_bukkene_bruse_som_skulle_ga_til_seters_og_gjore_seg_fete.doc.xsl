@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'1a Kolme pukkii Pruusii jokka aijothiin mennä kesäsijhaan syömhään ittensä paksuiksi-De tre bukkene Bruse som skulle gå til seters og gjøre seg fete.doc'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Kolme pukkii Pruusii'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
