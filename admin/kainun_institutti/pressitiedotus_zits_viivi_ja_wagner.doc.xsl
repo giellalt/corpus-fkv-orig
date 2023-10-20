@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="''"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'"Zits" ja "Viivi ja Wagner"'"/>
+    <xsl:variable name="title" select="'Zits, Viivi ja Wagner'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
