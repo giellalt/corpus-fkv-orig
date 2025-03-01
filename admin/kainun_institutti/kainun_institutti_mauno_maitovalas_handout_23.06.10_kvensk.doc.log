@@ -1,0 +1,225 @@
+Error at: 119
+<string>:0:0:ERROR:VALID:DTD_INVALID_CHILD: Element em is not declared in em list of possible children
+<document {http://www.w3.org/XML/1998/namespace}lang="fkv" id="no_id">
+    <header>
+        <title>
+            MAITOVALHAAN JOIKU Handout/Utstillingstekst
+        </title>
+        <genre code="admin">
+        </genre>
+        <author>
+            <unknown>
+            </unknown>
+        </author>
+        <translator>
+            <person firstname="Pirjo" lastname="Paavaniemi" sex="f" born="" nationality="FIN">
+            </person>
+        </translator>
+        <year>
+            2010
+        </year>
+        <wordcount>
+            999
+        </wordcount>
+        <conversion_status type="standard">
+        </conversion_status>
+        <availability>
+            <free>
+            </free>
+        </availability>
+        <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com">
+        </submitter>
+        <multilingual>
+            <language {http://www.w3.org/XML/1998/namespace}lang="nob">
+            </language>
+            <language {http://www.w3.org/XML/1998/namespace}lang="fkv">
+            </language>
+        </multilingual>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="dan" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="eng" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fin" location="kainun_institutti_mauno_maitovalas_handout_23.06.10_finsk.doc">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fit" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fkv" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="ger" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="isl" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="kal" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="kpv" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="nno" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="nob" location="kainun_institutti_mauno_maitovalas_handout_23.06.10_norsk.doc">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="rus" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sma" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sme" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="smj" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="smn" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sms" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="swe" location="">
+        </parallel_text>
+        <metadata>
+            <uncomplete>
+            </uncomplete>
+        </metadata>
+        <version>
+            XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$;
+        </version>
+    </header>
+    <body>
+        <p>
+            MAITOVALHAAN JOIKU
+        </p>
+        <p>
+            Handout/ Utstillingstekst
+        </p>
+        <p>
+            Oversatt til kvensk: Kainun institutti-Kvensk institutt/ Pirjo Paavalniemi
+        </p>
+        <p>
+            23.06.2010
+        </p>
+        <p>
+            Kainun institutti
+        </p>
+        <p>
+            <em type="italic">
+                <em type="bold">
+                    MAITOVALHAAN JOIKU
+                </em>
+            </em>
+            <em type="italic">
+                Kainun institutti
+            </em>
+        </p>
+        <p>
+            <em type="italic">
+                Maitovalhaan joiku
+            </em>
+        –näyttelyssä pääsemä kattomhaan mailmaa maitovalhaan vinkkelistä. Vuosituhanssiitten aikana oon valkoset valhaat kohanheet kveeniitä ja merisaamelaissii, jokka kuljethiin Jäämeren rannoila. Net oon kans kuulheet pomoriitten lauluu Vienanmerelä. Kaikki, jokka oon asunheet saarela – aina viikingistä nykyaijan turisthiin saakka – oon pääsheet näkemhään valhaita. Vienanmeren rantapahtoin kuvat eli pahtapiirustukset muistelhaan kulttuurista, mikä oon jo kokonhansa häviny. Vanhaasheen aikhaan saatto maitovalas olla joilekki ihmisille tärkkee totemielläin samhaan lajhiin ko karhuu tahi hirvi oon tärkkee pyyttääjille. Vienan Karjalan vanhoissa muisteluksissa muistelhaan valhaitten laulusta. Piian valas oliki aikanhaan kans
+            <em type="italic">
+                Lemminkäisen
+            </em>
+            <em type="italic">
+                voimaelläin. Mutta mitä met oikhein tiämä näistä merten asujista? Oonko niilä semmosta kulttuurii, mitä net saatethaan siirttäät etheenpäin omile lapsile ja minkälainen oon niitten oma kieli?
+            </em>
+        </p>
+        <p>
+            <em type="italic">
+                Meren ääni
+            </em>
+        </p>
+        <p>
+            Meri ei ole äänetön ja merta oon kans kuuneltu jo tuhanssii vuossii. ”Delfiineillä oon oma kieli, mutta net ei ole niin sepät käyttämhään konsonanttiita, kirjotti
+            <em type="italic">
+                Aristoteles
+            </em>
+        vuona 323 ennen aijanlaskun alkkuu. Läntisessä eli vestasessa mailmassa nämät Aristotelheen sanat kuiten unheetethiin, kunnes toisen mailmansoan aikana käytetyt kuunteluvehkheet, joila veen alla kuunelthiin viholissii, paljastethiin taasen tämän rikkhaan äänimailman.
+        </p>
+        <p>
+            Australian alkuperäiskansat oon jo sukupolviin aijan osanheet kommuniseerata delfiinitten kans. Kommuniseeraamisessa het käytethään puutikkui, joita het hangathaan yhtheen. Puutikuista lähtee ääni, mikä oon samanlaista ko delfiinin ääni. Meribiologi ja luontokuvvaaja
+            <em type="italic">
+                Jacques Cousteau
+            </em>
+        oon keräny tiettoo siitä, kunka Mauretanian rannikon alkuperäiskansa pyysi kallaa yhessä delfiinitten kans.
+        </p>
+        <p>
+            Venäläiset tutkiijat sanothaan, ette maitovalhaila oon oma kieli, millä het kommuniseerathaan. Jo pieninä poikasinna net osathaan ommaa ’poikasten kieltä’. Se näyttää siltä, ette maitovalas ’merkkaa’ oman puhheen. Se laittaa puhheesheen oman signatuurin, mikä oon jokhaisella eri. Ja toisila merialoila elävät maitovalhaat käytethään puolesthaan ommaa kieltä. Voiskos silloin sannoot, ette valhailaki oon oma kulttuuri?
+        </p>
+        <p>
+            <em type="bold">
+                Kuvat muistelhaan ihmisen ja valhaan yhtheyvestä
+            </em>
+        </p>
+        <p>
+            Vienanmeren rantapahtoin kuvat eli piirokset oon kuusi tahi jopa seittemen tuhatta vuotta vanhaat, ja niissä oon ainaki sata kuvvaa maitovalhaista. Tämän näyttelyn pääkuvana oon tällainen pahtapiirustus. Tässä piirustuksessa maitovalas uipi veen pinnala ja kommuniseeraa ihmisen kans, joka oon ottanu osin elläimen haamun. Maitovalashan pittää ääntä kans silloin ko se oon veen pinnala. Niinpä ihmishaamun suussa oleva pitkä ’plankku’ saattais hyvinki olla kieli? Skandinavian ja Vestapohjais-Venäjän pahtapiirustukset muistelhaan aijasta ennen saamelaissii. Finmarkusta, Varenginvuonon rannalta, oon löyetty mesolittisen kiviaijan asumapaikkoin ja kulttuurin jälkkii suunile yheksän tuhanen vuoen takkaa. Sekä merisaamelaisten ja kveeniin esivanhiimet pyyethiin kans aikoinhaan kallaa vuonossa, mutta tämä joukko hävis hiljemin. Viimisen tuhanen vuoen aikana alko Varengin kalanpyytöpaikoile tulla uutta väkkee, ko Novgorod laajeni kohi Vienanmerree. Heitä kuttuthiin Pomoriksi, mikä meinaa rannikon asukasta. Kirjaliset dokumentit oon vasta 500 viimisen vuoen aijalta.
+        </p>
+        <p>
+            Ihmisen ja maitovalhaan yhtheys oon monela laila mielenkiintonen. Miksiköhän nämät ’pyhät ihmiset’
+            <em type="italic">
+                Savvati
+            </em>
+        ,
+            <em type="italic">
+                Herman
+            </em>
+        ja
+            <em type="italic">
+                Zosima
+            </em>
+            <em type="italic">
+                päätethiin rakentaat Solovetskin klosterin saarheen, mikä oon keskelä Vienanmerta? Miksi het rakenethiin ensimäisen asumapaikan suunile
+            </em>
+        kilomeetterin päähän Solovetskin Maitovalasniemestä, missä valhaat oon synnyttänheet ja lissäintynheet aina jääkauen lopusta alkkain. Mikä se mahto olla se ’valkonen hevonen’, joka – klosterin syntymuisteluksen mukhaan – kisko klosterin peruskiven merijään yli?
+        </p>
+        <p>
+            Näyttely anttaa sekä toelisen ja kuvitheellisen kuvan ihmisten ja valhaitten kohtaamisista.
+            <em type="italic">
+                Adam Bremeniläinen
+            </em>
+        , Hampurin piispasakin (norj. erkebispedømmet) kronikööri kirjottaa vuona 1075 AD, kunka nk. ’pakanat’ käythiin pohjaisen meren rannala ja het
+            <span type="quote">
+                ”kommuniseerathiin suuriin merielläimiitten kans”
+            </span>
+        , eli latinaksi
+            <span type="quote">
+                ”murmure verborum grandia cete maris”
+            </span>
+        . Adam Bremeniläinen oli vissiin kuulu muisteluksii merisaamelaisista, jokka kesälä pruukathiin kokkointuut kalanpyythöön. Muisteluksissa kerrothiin, ette merisaamelaiset joiuthiin valhaita.
+        </p>
+        <p>
+            <em type="italic">
+                Improvisašuunii valhaan kans
+            </em>
+        </p>
+        <p>
+            Näyttelyssä muistelhaan, kunka ihminen ja maitovalas saatethaan kommuniseerata nykyaijan tekniikan avula – niin ko esimerkiksi musiseerata yhessä. Musikillisen improvisašuunin avula saattaa klarinetin pellaaja opastuut valhaitten äänimailmhaan. Maitovalas ’näkkee’ äänen avula, mitä veen alla tapattuu. Se saattaa äänelä tuntteet 40 mikromeetterin kokosen reijän, mikä oon teräsplaatassa viien meetterin päässä (ihmisen hyksi oon suunile 100 mikromeetterii). Lisäksi se voi jopa kahen sajan meetterin päähään nähjä, ette oonko sielä herkulinen santikka vain kelvoton tupakkipakka. Ihmiselle tämä saattaa olla vaikkee ymmärttäät.
+        </p>
+        <p>
+            Niinpä sitä alkkaaki hunteeramhaan, ette saattaako maitovalas lähättää toisile valhaile niitä kuvvii, mitä se ’näkkee’? Entäpä saatethaanko nämät muistikuvat kehittyyt ajatukseksi?
+        </p>
+        <p>
+            Teksti: Outi ja Rauno Lauhakangas
+        </p>
+        <p>
+            <em type="bold">
+                HVITHVAL (Delphinapterus leucas)
+            </em>
+        </p>
+        <p>
+            Hvithval er, som det latinske artsnavnet tilsier,
+            <span type="quote">
+                ”en hvit, vingeløs delfin”
+            </span>
+        , en hvit hval uten ryggfinne. Et av de beste kjennetegnene er hvalens oppsiktsvekkende farge, som blir lysere fra ungens mørke blågrå til melkehvit når individet blir eldre. Et annet godt kjennetegn er den manglende ryggfinnen, som er en tilpasning til livet i arktiske farvann, der en høy ryggfinne ville være en ulempe under dykking blant isblokker og -flak.
+        </p>
+        <p>
+            Hvithval er av utbredelse en rent arktisk og subarktisk art, som bare finnes i kalde farvann på den nordlige halvkule. Den er hjemme på åpent hav så vel som i nærheten av kysten, og trives også ofte i elvedeltaer. For øyeblikket antar man at det finnes 100 000 individer av hvithval i hele utbredelsesområdet.
+        </p>
+        <p>
+            Hvithval oppnår fra 4 til 5 meters lengde som voksen, og de største hannene kan veie over 1500 kg. Hvithvalens føde er hovedsakelig ulike typer fisk av forskjellig størrelse, men den godtar også skjell og andre virvelløse arter fra havbunnen som føde. Hvithvalen er en dyktig dykker. På leting etter føde dykker hvalen flere ganger ned mot 300 meters dybde og oppholder seg under overflaten fra 7 til 12 minutter. Hvithvalens naturlige fiender er isbjørn og spekkhogger.
+        </p>
+        <p>
+            Hvithval er en meget sosial art. Hvalene opptrer for det meste i grupper på et par titalls dyr, men man har også sett flokker på flere tusen individer. Ungene fødes i april-mai etter at hunnen har vært drektig i 14 måneder. Hunnene samler seg i grunne, beskyttede viker for å føde. Der er de nyfødte sannsynligvis best sikret mot angrep fra spekkhoggere. Takket være fettholdig kost er ungen nesten like stor som moren allerede etter ett år. Ungen holder seg tett ved moren de neste to årene, som er en betydelig lang tid for en tannhval. Grunnen antas å være at hvithvalungen trenger lengre tid enn andre arter sammen med moren for å kunne lære å orientere seg i de isrike og utfordrende omgivelsene og lære seg det grunnleggende i hvithvalens typiske mangesidige lydverden.
+        </p>
+        <p>
+            Outi Tervo
+        </p>
+        <p>
+            kainun_institutti_mauno_maitovalas_handout_23.06.10_kvensk.doc  3  /  3
+        </p>
+    </body>
+</document>
