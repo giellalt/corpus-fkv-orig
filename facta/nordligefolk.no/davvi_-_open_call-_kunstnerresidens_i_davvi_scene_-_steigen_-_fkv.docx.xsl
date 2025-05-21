@@ -183,7 +183,7 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location=""/>
+        <parallel_text xml:lang="nob" location="davvi_-_open_call-_kunstnerresidens_i_davvi_scene_-_steigen_-_nob.docx"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
