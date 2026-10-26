@@ -155,8 +155,12 @@
         then the document is checked for all supported languages.
     -->
     <xsl:variable name="mlangs">
-        <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="nob"/><language xml:lang="eng"/><language xml:lang="sme"/><language xml:lang="fkv"/><language xml:lang="fin"/></xsl:variable>
+        <language xml:lang="nob"/>
+        <language xml:lang="eng"/>
+        <language xml:lang="sme"/>
+        <language xml:lang="fkv"/>
+        <language xml:lang="fin"/>
+    </xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
